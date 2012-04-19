@@ -1,4 +1,1 @@
-rails-bare
-==========
-
-https://github.com/spastorino/rails-api
+Moved to [rails-api](https://github.com/spastorino/rails-api)
